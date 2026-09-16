@@ -25,7 +25,7 @@ Tool: I used the Github copilot and chat gbt
 
 Describe what you asked the AI tool to help you understand or troubleshoot.
 
-Response: I asked the co piolot for examples and I used chat gbt to better explain the codes Im writting and whaeach command means or repersents.
+Response: I asked the co pilot for examples and guidance on what I should do by using examples. Then I  used chat to help better explain the codes into a more simpler terms and why I need them.
 
 ## How I Used the Assistance
 
@@ -37,13 +37,13 @@ Response: I first used co pilot to help give me examples of the code and later o
 
 Explain how you tested the code and confirmed that the AI assistance was accurate.
 
-Response: I copy and pasted into co pilpot when I had a error and then It also told me to correct my spelling errors.
+Response: I copy and pasted into co pilot when I had a error and then It also told me to correct my spelling errors.
 
 ## What I Learned
 
 Describe one concept or programming skill you understand better after completing the lab.
 
-Response:Iv learned what the float command does which helps tranlate the number into a decimal.
+Response:Ive learned what the float command does which helps tranlate the number into a decimal.
 
 ## Summary
 
