@@ -4,7 +4,7 @@
 
 - Student name: Matthew Cires
 - Week: 4
-- Lab:4
+- Lab:1
 - Date: 9/16/26
 
 ## AI Use
